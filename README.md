@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
+[![Freelancer Preview](src/assets/img/screen-short-2.png)](https://starlla.github.io/portfolio-2021/)
 
 **[View Live Preview](https://starlla.github.io/portfolio-2021/)**
 
