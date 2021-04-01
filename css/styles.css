@@ -10232,6 +10232,7 @@ form .row:first-child .floating-label-form-group {
   padding-bottom: 5rem;
   background-color: #242C64;
   color: #fff;
+  border-radius: 65px 0px 0px 0px;
 }
 
 .copyright {
